@@ -13,6 +13,8 @@ public class ejercicioResuelto{
 		System.out.println(alumnos.IsEmpty);
 		System.out.println(alumnos.size);
 
+		Iterator<String> itA = 	alumnos.interator();
+
 	}
 }
 
